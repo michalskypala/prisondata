@@ -278,7 +278,7 @@ body {
   color: #fff;
 }
 [data-type="iceland"] .content__left {
-  background-image: url("https://cdn.pixabay.com/photo/2015/03/26/09/43/chain-link-690172_960_720.jpg");
+  background-image: url("img.jpg");
 }
 .spinner--right [data-type="iceland"] .content__left {
   background-image: none;
