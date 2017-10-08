@@ -4,7 +4,30 @@ body {
   height: 100%;
   overflow: hidden;
 }
+
 @import url("https://fonts.googleapis.com/css?family=Lato");
+
+#assaultsline {
+	min-width: 310px;
+	max-width: 800px;
+	height: 565px;
+	margin: 0 auto
+}
+
+#sexualassaultsline {
+	min-width: 310px;
+	max-width: 800px;
+	height: 565px;
+	margin: 0 auto
+}
+
+#assaultsbar {
+	min-width: 310px;
+	max-width: 800px;
+	height: 565px;
+	margin: 0 auto
+}
+
 .header {
   background: #00456e;
   color: #fff;
@@ -26,9 +49,6 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-}
-li a:hover {
-  font-weight: bold;
 }
 #highcharts-ezasubu {
   padding: 20px;
