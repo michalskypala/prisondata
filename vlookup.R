@@ -1,4 +1,6 @@
-# upload your files first on the Environment window
+# upload your files
+assaults = read.csv("data/assaults.csv")
+population = read.csv("data/population.csv")
 
 # perform a vlookup using 'merge'
 
