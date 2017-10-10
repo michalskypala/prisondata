@@ -1,9 +1,5 @@
 Highcharts.chart('assaultsline', {
 
-    chart: {
-        backgroundColor: null
-    },
-    
     title: {
         text: 'Assualts on prison officers has risen in the last two years'
     },
