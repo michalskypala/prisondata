@@ -7,27 +7,21 @@ body {
 
 @import url("https://fonts.googleapis.com/css?family=Lato");
 
-#map {
+#assaultsline {
 	min-width: 310px;
 	max-width: 800px;
 	height: 565px;
 	margin: 0 auto
 }
 
-#murders {
+#sexualassaultsline {
 	min-width: 310px;
 	max-width: 800px;
 	height: 565px;
 	margin: 0 auto
 }
 
-#impunity {
-	min-width: 310px;
-	max-width: 800px;
-	height: 565px;
-	margin: 0 auto
-}
-#suspects {
+#assaultsbar {
 	min-width: 310px;
 	max-width: 800px;
 	height: 565px;
@@ -35,7 +29,7 @@ body {
 }
 
 .header {
-  background: ##000000;
+  background: #00456e;
   color: #fff;
   height: 50px;
   padding: 2px;
